@@ -1,0 +1,55 @@
+   [
+  
+  
+   
+    {
+        "name": "VALENTINO",
+        "about": " Checked linen, wool and silk-blend blazer ",
+      
+        "price": 969,
+        "crossprice": 3873,
+        "discount": "65% Off",
+        "approx": "639",
+        "color": "Mushroom",
+        "detail": "Synonymous with elegance, Sachin & Babi is our go-to for statement-making eveningwear. Designers Sachin and Babi Ahluwalia launched their embroidery business in 1996 before focusing on ready-to-wear characterized by traditional Indian needlework. Watch for iconic satin gowns in deep, dazzling hues.",
+        "image": [
+          "https://www.theoutnet.com/variants/images/45666037504704042/F/w720_q80.jpg",
+          "https://www.theoutnet.com/variants/images/45666037504704042/R/w1020_q80.jpg",
+          "https://www.theoutnet.com/variants/images/45666037504704042/E/w1020_q80.jpg",
+          "https://www.theoutnet.com/variants/images/45666037504704042/D/w1020_q80.jpg"
+        ]
+    }, {
+        "name": "VELENTINO",
+        "about": "Wool-jacquard jacke ",
+      
+        "price": 1695,
+        "crossprice": 573,
+        "discount": "45% Off",
+        "approx": "139",
+        "color": "Dark Grey",
+        "detail": "Synonymous with elegance, Sachin & Babi is our go-to for statement-making eveningwear. Designers Sachin and Babi Ahluwalia launched their embroidery business in 1996 before focusing on ready-to-wear characterized by traditional Indian needlework. Watch for iconic satin gowns in deep, dazzling hues.",
+        "image": [
+       "",
+       "",
+       "",
+       ""
+    ]
+    }, {
+        "name": "VELENTINO GRACIA",
+        "about": "Intarsia wool and cashmere-blend sweate",
+      
+        "price": 1999,
+        "crossprice": 673,
+        "discount": "85% Off",
+        "approx": "139",
+        "color": "Green",
+        "detail": "Synonymous with elegance, Sachin & Babi is our go-to for statement-making eveningwear. Designers Sachin and Babi Ahluwalia launched their embroidery business in 1996 before focusing on ready-to-wear characterized by traditional Indian needlework. Watch for iconic satin gowns in deep, dazzling hues.",
+        "image": [
+       "https://www.theoutnet.com/variants/images/1647597277408176/F/w720_q80.jpg",
+       "https://www.theoutnet.com/variants/images/1647597277408176/R/w1020_q80.jpg",
+       "https://www.theoutnet.com/variants/images/1647597277408176/E/w1020_q80.jpg",
+       "https://www.theoutnet.com/variants/images/1647597277408176/D/w1020_q80.jpg"
+        ]
+    }
+]
+   
