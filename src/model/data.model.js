@@ -17,5 +17,5 @@
  });
 
  
- const Data=mongoose.model("manali",dataSchema);
+ const Data=mongoose.model("shreya",dataSchema);
  module.exports=Data;
